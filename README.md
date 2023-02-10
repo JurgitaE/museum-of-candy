@@ -10,7 +10,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://jurgitae.github.io/museum-of-candy/
 
-This is based on a [web-developer-bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/).
+This is based on a [web-developer-bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) course.
 
 ## 🎯 Project features/goals
 
